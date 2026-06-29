@@ -6,7 +6,9 @@
 </div>
 <!--Intro start-->
 - 🧑‍💻 Currently learning to create **fullstack** applications
+
 - 🌱 I dream of working in the world of **web development**.
+
 - ☁️ Currently studying computer engineering at DuocUC
 
 <!--Intro end-->
